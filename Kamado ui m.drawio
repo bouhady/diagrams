@@ -1,14 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T20:58:51.909Z" agent="5.0 (Linux; Android 10; SM-T510) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Safari/537.36" etag="-R3ikLF68sOzAm8uO-1R" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T21:02:17.179Z" agent="5.0 (Linux; Android 10; SM-T510) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.110 Safari/537.36" etag="GI2FHhfNCxad8RYk7-Oi" version="13.8.8" type="github">
   <diagram id="WNKRPRZF5IoHiyn_uSLK" name="Page-1">
-    <mxGraphModel dx="1564" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1013" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eMp99R8xjILvdZHnZoo6-1" value="Graph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="eMp99R8xjILvdZHnZoo6-4" value="refresh" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="370" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eMp99R8xjILvdZHnZoo6-2" value="sessions" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="120" height="170" as="geometry" />
+        <mxCell id="eMp99R8xjILvdZHnZoo6-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eMp99R8xjILvdZHnZoo6-11" value="&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:100%;height:100%;&quot;&gt;&lt;tr&gt;&lt;td style=&quot;width:85%&quot;&gt;100&lt;/td&gt;&lt;td style=&quot;width:15%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=17;fontColor=#666666;mainText=;html=1;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eMp99R8xjILvdZHnZoo6-12" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eMp99R8xjILvdZHnZoo6-13" value="Group 1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;" vertex="1" parent="eMp99R8xjILvdZHnZoo6-12">
+          <mxGeometry width="100" height="26" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eMp99R8xjILvdZHnZoo6-14" value="Group 2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;" vertex="1" parent="eMp99R8xjILvdZHnZoo6-12">
+          <mxGeometry width="100" height="26" relative="1" as="geometry">
+            <mxPoint y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMp99R8xjILvdZHnZoo6-15" value="Group 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;fontStyle=1;fillColor=#008cff;strokeColor=#008cff;resizeWidth=1;" vertex="1" parent="eMp99R8xjILvdZHnZoo6-12">
+          <mxGeometry width="100" height="26" relative="1" as="geometry">
+            <mxPoint y="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMp99R8xjILvdZHnZoo6-16" value="Group 4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;fontStyle=1;resizeWidth=1;" vertex="1" parent="eMp99R8xjILvdZHnZoo6-12">
+          <mxGeometry y="1" width="100" height="26" relative="1" as="geometry">
+            <mxPoint y="-26" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
